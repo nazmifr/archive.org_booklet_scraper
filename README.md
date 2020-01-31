@@ -2,11 +2,13 @@
 
 The archive.org site is an amazing project, they host so much great content, are an example of what a true information society and progress will look like, the one and only caveat i've found is that their document viewer doesn't let you download the individual images. Yes it would be really easy to just download the pdf and extract the images but I'm a lazy fuck so I've done this little script that allows you to automatically download all the images of a book item.
 
-My use case is that I need to get my own items in this form to browse them offline with another viewer. To some users it might be a way to get offline access to their items as well.
+My use case is that I need to get my own items in this form to browse them offline with another viewer. To some users it might be a way to get offline access to their items as well as it is cumbersome and not resilient to have to rely on a working broadband connection to access important knowledge and files.
 
 ## Dependencies
-  - bash (should be already installed, sudo apt-get install bash)
-  - wget (sudo apt-get install wget)
+  - bash (should be already installed)
+     ``` sudo apt-get install bash ```
+  - wget 
+      ``` sudo apt-get install wget ```
   
 ## How To
 
@@ -16,7 +18,8 @@ My use case is that I need to get my own items in this form to browse them offli
 2. Create a repertory on your system
 3. Put iadownload.sh in it
 4. Open a terminal and cd to your repertory
-5. Execute command ``` sudo chmod +x iadownload.sh ```
+5. Execute command 
+    ``` sudo chmod +x iadownload.sh ```
 6. open the text file to edit for your item (nano iadownload.sh or just open it with geany or mousepad)
 7. save the file
 8. run the script and see all the pages appearing in your folder, they don't have an extension but any image viewer should work
