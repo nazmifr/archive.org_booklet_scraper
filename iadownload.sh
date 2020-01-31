@@ -2,9 +2,9 @@
 ura="https://ia801504.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/baiestoxiques/Les%20baies%20toxiques_300ppi_jp2.zip&file=Les%20baies%20toxiques_300ppi_jp2/Les%20baies%20toxiques_300ppi_"
 urb=".jp2&scale=4&rotate=0"
 zer="000"
-n="12"
+n="0"
 
-while [ $n -le 100 ]
+while [ $n -le 12 ]
 do
 	if [ $n -ge 10 ]
 	then
