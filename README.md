@@ -33,6 +33,7 @@ My use case is that I need to get my own items in this form to browse them offli
 
 
 ## Revision history
+
 ### V0.1
  - The Script is working with personal, public and borrowed items (as of Janunary 31st of 2020)
  - user agent and cookie spoofing for private and restricted items (use export cookies on firefox and put the cookies.txt in the folder of the .sh script)
