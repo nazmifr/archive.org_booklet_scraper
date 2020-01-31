@@ -6,8 +6,10 @@ My use case is that I need to get my own items in this form to browse them offli
 
 ## Dependencies
   - bash (should be already installed)
+  
      ``` sudo apt-get install bash ```
   - wget 
+  
       ``` sudo apt-get install wget ```
   
 ## How To
@@ -19,6 +21,7 @@ My use case is that I need to get my own items in this form to browse them offli
 3. Put iadownload.sh in it
 4. Open a terminal and cd to your repertory
 5. Execute command 
+
     ``` sudo chmod +x iadownload.sh ```
 6. open the text file to edit for your item (nano iadownload.sh or just open it with geany or mousepad)
 7. save the file
