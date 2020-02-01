@@ -20,9 +20,10 @@ When running the script, please use a folder that's dedicated to it as it may ov
 name_of_item/PPXXXX.jpg
 
 ## Dependencies
-  - firefox browser
-    - for restricted or borrowed (DRM) items you'll need [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/?src=search) (put the **cookies.txt** file in the same folder as the .sh script
-    - [absolute enable right click](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
+  - firefox browser with the extensions
+    - [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/?src=search) for restricted or borrowed (DRM) items (put the **cookies.txt** file in the same folder as the .sh script)
+    - [absolute enable right click](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) if you can't right click and copy the URL of the images
+    
   - bash (should be already installed)
   
      ``` sudo apt-get install bash ```
