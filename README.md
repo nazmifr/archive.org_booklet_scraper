@@ -13,6 +13,7 @@ My use case is that I need to get my own items in this form to browse them offli
 The output is plain jpeg images (no DRM, TPM or anything) that you can read even without a PDF reader, which is useful to me who has a Samsung Galaxy 1 Tablet
 
 ![Samsung P1000 tablet][tablet.jpeg]
+[logo]: https://raw.githubusercontent.com/nazmifr/archive.org_booklet_scraper/master/tablet.jpeg "Samsung Galaxy P1000"
 
 When running the script, please use a folder that's dedicated to it as it may overwrite files that use this structure:
 name_of_item/PPXXXX.jpg
