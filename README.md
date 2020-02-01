@@ -20,6 +20,7 @@ When running the script, please use a folder that's dedicated to it as it may ov
 name_of_item/PPXXXX.jpg
 
 ## Dependencies
+  - for restricted or borrowed (DRM) items you'll need [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/?src=search) (put the **cookies.txt** file in the same folder as the .sh script)
   - firefox browser with [absolute enable right click](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
   - bash (should be already installed)
   
@@ -35,7 +36,7 @@ name_of_item/PPXXXX.jpg
 1. Clone the repository OR copy the contents of **iadownload.sh** file
 2. Create a folder on your system
 3. Put iadownload.sh in it
-4. Open a terminal and cd to your folder
+4. Open a terminal and cd to your foldhttps://addons.mozilla.org/en-US/firefox/addon/cookies-txt/?src=searcher
 5. Execute command 
 
     ``` sudo chmod +x iadownload.sh ```
