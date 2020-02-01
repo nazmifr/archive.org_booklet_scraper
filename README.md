@@ -10,7 +10,7 @@ The archive.org site is an amazing project, they host so much great content, are
 
 My use case is that I need to get my own items in this form to browse them offline with another viewer. To some users it might be a way to get offline access to their items as well as it is cumbersome and not resilient to have to rely on a working broadband connection to access important knowledge and files.
 
-The output is plain jpeg images (no DRM, TPM or anything) that you can read even without a PDF reader, which is useful to me who has a Samsung Galaxy 1 Tablet
+The output is plain jpeg images (no DRM, TPM or anything) that you can read even without a PDF reader, which is useful to me who has a Samsung Galaxy 1 Tablet with android 2.3.7, no internet and no PDF reader.
 
 ![Samsung P1000 tablet][tablet.jpeg]
 
