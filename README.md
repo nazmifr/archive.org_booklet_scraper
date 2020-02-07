@@ -2,9 +2,12 @@
 
 ## Presentation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=O7IGLBied7c
+" target="_blank"><img src="https://raw.githubusercontent.com/nazmifr/archive.org_booklet_scraper/master/thumb.png" 
+alt="TUTORIAL VIDEO" width="240" height="180" border="10" /></a>
+
+
+There is also a French 🇫🇷 version available here: https://youtu.be/VG9q_QVp8a0
 
 The archive.org site is an amazing project, they host so much great content, are an example of what a true information society and progress will look like. The one and only caveat i've found is that their document viewer doesn't let you download the individual images. Yes it would be really easy to just download the pdf and extract the images but I'm a lazy fuck so I've done this little script that allows you to automatically download all the images of a book item.
 
