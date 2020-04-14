@@ -1,6 +1,6 @@
 # Archive.org booklet scraper: a tool to download and browse archive.org books offline
 
-French article about the project on my blog: [link](https://nazmi.fr/archive_org_booklet_scraper/){:target="_blank"}
+French article about the project on my blog: [link](https://nazmi.fr/archive_org_booklet_scraper/){:target="\_blank"}
 
 ## Presentation
 
