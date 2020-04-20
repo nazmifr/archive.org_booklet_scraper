@@ -8,7 +8,7 @@ import requests
 
 # Pages to download
 fraum = 1 # 1st page to download
-tou = 500 # Last page to download (overshoot is not an issue, will just add blank files)
+tou = 500 # Last page to download (overshoot is not an issue, will just add empty images easy to delete afterwards)
 
 # Item to download
 part1 = 'https://ia801305.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/KurtSaxonThePoorMansJamesBondVol5.pdf/Kurt%20Saxon%20-%20The%20Poor%20Mans%20James%20Bond%20-%20Vol%201_jp2.zip&file=Kurt%20Saxon%20-%20The%20Poor%20Mans%20James%20Bond%20-%20Vol%201_jp2/Kurt%20Saxon%20-%20The%20Poor%20Mans%20James%20Bond%20-%20Vol%201_'  # Cut at the underscore '_' before the four digits of the page 
