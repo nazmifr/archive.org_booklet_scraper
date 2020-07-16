@@ -50,6 +50,7 @@ name_of_item/PPXXXX.jpg
 6. open the text file to edit for your item (nano iadownload.sh or just open it with geany or mousepad)
 7. save the file
 8. run the script and see all the pages appearing in your folder, they don't have an extension but any image viewer should work
+9. If you have more than a hundred or so pages to download, you may start to get 403 errors, check which pages are downloaded fine in the folder (thumbnail or weight of the jpeg file) and change the range in the script, then update the **cookies.txt** file by going back to the page of the item on archive.org and pressing F5 and overwriting the old cookies.txt
 
 ### Batch renaming:
 
