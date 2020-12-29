@@ -74,9 +74,11 @@ you can use **gscan2pdf* raise issue if you have a better method
   - the files' name are now PPXXXX.jpg
   - added comments in the few lines of code of the script
   - variable are more clear and code easier to edit
- 
+
 ### Todo
   - port to JS userscript on tampermonkey / greasyfork / greasemonkey
+  - in case of 404 display error message alert()
+  - ask where to start with insert an input to start from previous downloading session (upgrade)
   - automatic URL and number of pages retrieval
   - automatic parsing of URL either from an archive.org link or an archive.org BookReader link
   - ~not redownloading already downloaded images~ (bad idea, some images are maybe corrupt, clean redownload > all)
