@@ -1,6 +1,6 @@
 # Archive.org booklet scraper: a tool to download and browse archive.org books offline
 
-Note: this archiver is currently broken for all **1 hour borrow** items. Please contact me at my email for any urgent need, I'm working on an undetectable scraper.
+Note: this archiver is currently broken for all **1 hour borrow** items. Please [send me an email](https://nazmi.fr/contact) with the link to the item you want for any urgent need, I have hacked together a semi automatic script, I'm working on an undetectable scraper.
 
 French article about the project on my [blog](https://nazmi.fr/archive_org_booklet_scraper/)
 
