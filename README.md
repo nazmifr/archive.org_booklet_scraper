@@ -19,4 +19,4 @@ As of october 2020 the old python and bash scrapers are broken, I made a simple 
 # Requirements for the new script
 
 - Web browser (Firefox, Chrome (Chromium, Brave, Edge, Opera, ...)) supporting bookmarklets
-- **Optional:** VPS with the online PDF converter suite (php, apache, imagemagick, ghostscript) (my server is set as default and can be used for small donation of your choice or some time)
+- **Optional:** VPS with the online PDF converter suite (php, apache, imagemagick, ghostscript) (my server is set as default and can be used to convert the images to pdf for small donation of your choice, or some time doing OCR verification for some books)
